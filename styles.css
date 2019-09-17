@@ -62,7 +62,7 @@ img {
 }
 
 #banner {
-    background-image: url(./images/20190902_182457.jpg);
+    background-image: url("./images/20190902_182457.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
